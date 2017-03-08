@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello！</string>
+    <string name="hello">Hello!</string>
+    <string name="search_name">搜索电影/音乐/商品</string>
+    <string name="current_account">当前登陆账号</string>
+    <string name="login_of">注销当前登录</string>
+    <string name="exit">Exit</string>
+</resources>
