@@ -164,7 +164,7 @@
             android:fontFamily="monospace"
             android:gravity="center"
             android:text="@string/exit"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="normal|italic" />
 
     </RelativeLayout>
