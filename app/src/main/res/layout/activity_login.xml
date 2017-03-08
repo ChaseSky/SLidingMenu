@@ -36,7 +36,7 @@
             android:background="@drawable/button_shape"
             android:layout_width="match_parent"
             android:layout_height="45dp"
-            android:paddingLeft="10dp"
+            android:paddingLeft="12dp"
             android:hint="QQ号/手机号/邮箱" />
 
         <EditText
@@ -44,7 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:layout_marginTop="10dp"
-            android:paddingLeft="10dp"
+            android:paddingLeft="12dp"
             android:hint="密码"
             android:inputType="textPassword" />
 
